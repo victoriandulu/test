@@ -1,0 +1,17 @@
+.footer{
+    display: flex;
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+    background-color: gray;
+    justify-content: center;
+}
+.nav-footer{
+    display: flex;
+
+}
+.li{
+    font-size: 14px;
+}.ul{
+    display: flex;
+}
